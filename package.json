@@ -7,14 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node scripts/start.mjs"
   },
-  "workspaces": {
-    "packages": [
-      "packages/*"
-    ],
-    "nohoist": [
-      "**"
-    ]
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",

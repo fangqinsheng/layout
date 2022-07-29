@@ -1,6 +1,7 @@
 {
   "private": true,
-  "author":"fqs8226 <1105813323@qq.com>",
+  "name": "fire",
+  "author": "fqs8226 <1105813323@qq.com>",
   "scripts": {
     "dev": "max dev",
     "build": "max build",
@@ -20,8 +21,8 @@
     "@types/react-dom": "^18.0.0",
     "lint-staged": "^13.0.3",
     "prettier": "^2.7.1",
-    "prettier-plugin-organize-imports": "^2",
-    "prettier-plugin-packagejson": "^2",
+    "prettier-plugin-organize-imports": "^2.3.4",
+    "prettier-plugin-packagejson": "^2.2.18",
     "typescript": "^4.1.2"
   }
 }
